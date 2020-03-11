@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 7.7880215 7.7880215"
+   height="7.7880216mm"
+   width="7.7880216mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-77.912599,-141.14086)"
+     id="layer1">
+    <g
+       id="g913"
+       transform="matrix(0.18904473,0,0,0.18904473,-303.87457,36.828961)">
+      <path
+         d="m 2060.7567,572.38257 a 20.598356,20.598356 0 0 1 -20.5554,20.59831 20.598356,20.598356 0 0 1 -20.6412,-20.51239 20.598356,20.598356 0 0 1 20.4693,-20.68387 20.598356,20.598356 0 0 1 20.7266,20.4261"
+         id="path959-6-7"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24551478;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         style="opacity:1;fill:#0a66c2;fill-opacity:1;stroke:none;stroke-width:0.09859142;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 2040.0735,558.89535 a 13.488152,13.488152 0 0 0 -13.4051,13.54496 13.488152,13.488152 0 0 0 13.5205,13.42977 13.488152,13.488152 0 0 0 13.4594,-13.48485 l -0.01,-0.11534 a 13.488152,13.488152 0 0 0 -13.5699,-13.37463 z m -4.6733,5.98106 a 1.6718509,1.6718509 0 0 1 1.6829,1.65806 v 0.01 a 1.6718509,1.6718509 0 0 1 -1.6682,1.67308 1.6718509,1.6718509 0 0 1 -1.6731,-1.66309 1.6718509,1.6718509 0 0 1 1.6584,-1.67804 z m 8.2249,4.26281 c 2.1568,-0.36546 3.6166,1.90774 3.6166,2.59483 v 6.65725 h -2.8053 v -5.32984 c -0.098,-1.89053 -2.8625,-1.90254 -3.1706,0 v 5.32984 h -2.7248 v -9.0366 h 2.7248 v 1.18715 c 0.8435,-0.86368 1.6402,-1.28072 2.3593,-1.40263 z m -9.6177,0.24036 h 2.8052 v 8.98157 h -2.8052 z"
+         id="path989-7" />
+    </g>
+  </g>
+</svg>
